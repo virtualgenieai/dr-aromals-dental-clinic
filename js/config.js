@@ -1,0 +1,1 @@
+window.SITE_CONFIG={whatsappNumber:"",clinics:{one:{name:"Clinic One",phone:"",mapsUrl:""},two:{name:"Clinic Two",phone:"",mapsUrl:""}}};
